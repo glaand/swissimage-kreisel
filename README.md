@@ -1,7 +1,6 @@
 # SwissImage Kreisel Projekt
-Architektur 1 (erweitertes CNN) ist im Notebook [cnn_model_leandro](notebooks/cnn_model_leandro.ipynb)
-Architektur 2 (Multi-Input Modell) ist im Notebook [model_andre](notebooks/cnn_model_andre.ipynb)
-
+- Im Bericht beschriebene Architektur 1 (erweitertes CNN) befindet sich im Notebook [cnn_model_leandro](notebooks/cnn_model_leandro.ipynb)
+- Im Bericht beschriebene Architektur 2 (Multi-Input Modell) befindet sich im Notebook [model_andre](notebooks/cnn_model_andre.ipynb)
 
 # Daten
 Die Daten können unter folgendem Link heruntergeladen werden.
