@@ -6,3 +6,6 @@ Architektur 2 (Multi-Input Modell) ist im Notebook [model_andre](notebooks/cnn_m
 # Daten
 Die Daten können unter folgendem Link heruntergeladen werden.
 https://drive.switch.ch/index.php/s/bbvFlFrhO7WnPEG
+
+# Projektbericht
+Link: [Bericht PDF](Deep_Learning___Aufgabenblatt_5.pdf)
